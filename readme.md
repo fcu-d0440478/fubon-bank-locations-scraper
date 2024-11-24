@@ -36,3 +36,8 @@ https://www.fubon.com/Fubon_Portal/banking/locations/branch.jsp?type=branch&zone
 換頁的部分，觀察換頁的位置，其 html 元素為"change_page.html"，找到 class="next"來使用他。
 
 最終爬取的內容會儲存在"branches_data_selenium.csv"
+
+## Chatgpt 對話過程
+
+https://chatgpt.com/share/6741e094-3a9c-800c-a929-9ba1ba0db814
+有興趣的可以看看怎麼構築這個專案的
